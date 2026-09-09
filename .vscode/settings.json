@@ -1,0 +1,7 @@
+{
+  "terminal.integrated.defaultLocation": "editor",
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "java.debug.settings.console": "integratedTerminal",
+  "java.test.defaultConfig": "Debug",
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
